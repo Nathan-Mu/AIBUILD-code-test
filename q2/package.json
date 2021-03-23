@@ -1,0 +1,16 @@
+{
+  "name": "nathan_q2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "resortCategories.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1"
+  }
+}
